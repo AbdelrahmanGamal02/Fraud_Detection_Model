@@ -58,7 +58,7 @@
 - 80% of dataset is used for training phase
 - 20% of dataset is used for test phase
   
-
-
-
-
+##### Two Models are used to classify if the person is fraud or not
+- Logistic Regression
+- Random Forest
+- Output the accuarcy of two models , confusion matrix , and some statistical information  
